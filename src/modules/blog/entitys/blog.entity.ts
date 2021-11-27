@@ -13,7 +13,6 @@ export class BlogTable {
 
   // @Column("text")
   // text: string;
-
   @Column()
   likes: number;
 
