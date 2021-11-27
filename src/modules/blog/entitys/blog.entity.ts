@@ -10,7 +10,6 @@ export class BlogTable {
 
   @Column()
   topic: string;
-
   // @Column("text")
   // text: string;
   @Column()
